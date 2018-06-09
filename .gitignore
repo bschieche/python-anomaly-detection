@@ -1,0 +1,8 @@
+*.csv
+!data/train.csv
+!data/cv.csv
+*.swp
+*.zip
+*.DS_Store
+anomaly_detection_all_data_sets.ipynb
+.ipynb_checkpoints
